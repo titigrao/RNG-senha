@@ -7,3 +7,7 @@
     --força-media:#E71B32;
     --força-forte:#00FF85;
 }
+
+body{
+    justify-content: center;
+}
