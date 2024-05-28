@@ -13,6 +13,7 @@ body{
     justify-content: center;
     text-align: center;
     background-color: var(--cor-fundo);
+    color: var(--textos);
 }
 
 .imagem-cadeado{
