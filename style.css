@@ -4,7 +4,7 @@
     --textos:#FFFFFF;
     --caixa-de-sub-e-ad:#57749E;
     --força-fraca:#E71B32;
-    --força-media:#E71B32;
+    --força-media:#FAF000;
     --força-forte:#00FF85;
     --borda:#0075FF;
 }
@@ -18,4 +18,5 @@ body{
 
 .imagem-cadeado{
     width: 2%;
+    padding: 10px;
 }
