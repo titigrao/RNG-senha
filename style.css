@@ -24,4 +24,5 @@ body{
     background-color: var(--fundo-texto);
     color: var(--textos);
     text-align: center;
+    width: 200%;
 }
