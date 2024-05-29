@@ -23,6 +23,7 @@ body{
     text-align: center;
     background-color: var(--cor-fundo);
     color: var(--textos);
+    font-family: var(--fonte-legal);
 }
 
 .imagem-cadeado{
