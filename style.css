@@ -25,6 +25,10 @@ body{
     font-family: var(--fonte-legal);
 }
 
+.lorem-ipsum{
+    width: min-content;
+}
+
 .conteudo-principal{
     text-align: center;
    margin-top: 60px;
@@ -33,7 +37,9 @@ body{
 .conteudo-senha{
     text-align: center;
     background-color: var(--fundo-texto);
+    padding: 30px;
 }
+
 
 .titulo{
     font-weight: "Open Sans", sans-serif;
