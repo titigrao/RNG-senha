@@ -30,6 +30,11 @@ body{
    margin-top: 60px;
 }
 
+.conteudo-senha{
+    text-align: center;
+    background-color: var(--fundo-texto);
+}
+
 .titulo{
     font-weight: "Open Sans", sans-serif;
 }
@@ -40,6 +45,5 @@ body{
 
 .rng-senha{
     background-color: var(--fundo-texto);
-    color: var(--textos);
     text-align: center;
 }
