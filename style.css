@@ -19,3 +19,9 @@ body{
 .imagem-cadeado{
     width: 2%;
 }
+
+.rng-senha{
+    background-color: var(--fundo-texto);
+    color: var(--textos);
+    text-align: center;
+}
