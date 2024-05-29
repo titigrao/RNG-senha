@@ -11,6 +11,7 @@
     --borda:#0075FF;
     --fonte-legal:"Kanit", sans-serif;
 }
+
 *{
     font-weight: 400;
 }
@@ -27,6 +28,7 @@ body{
 
 .conteudo-principal{
     text-align: center;
+    margin: 10px;
 }
 
 .titulo{
