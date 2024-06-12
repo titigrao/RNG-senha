@@ -55,9 +55,10 @@ body{
 }
 
 .parametro{
+    background-color: var(--fundo-texto);
+    border: 2px solid var(--borda);
+    margin-top: 32px;
+    padding: 24px;
     display: flex;
     justify-content: center;
-    background-color: var(--fundo-texto);
-    border-radius: 5px;
-    border-color: var(--borda);
 }
