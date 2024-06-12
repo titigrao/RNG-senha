@@ -50,7 +50,7 @@ body{
     margin-left: 10px;
 }
 
-#campo-senha: :focus{
+#campo-senha:focus{
     outline: none;
 }
 
