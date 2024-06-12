@@ -36,7 +36,6 @@ body{
 }
 
 .conteudo-senha{
-    text-align: center;
     background-color: var(--fundo-texto);
     padding: 30px;
 }
