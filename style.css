@@ -42,6 +42,13 @@ body{
     border-bottom: 5px solid var(--borda)
 }
 
+#campo-senha{
+    background-color: var(--fundo-texto);
+    border: none;
+    color: var(--textos);
+    font-size: 40px;
+}
+
 
 .titulo{
     font-weight: "Open Sans", sans-serif;
