@@ -57,5 +57,5 @@ body{
 .parametro{
     display: flex;
     justify-content: center;
-    background-color: var(--caixa-de-sub-e-ad);
+    background-color: var(--fundo-texto)
 }
