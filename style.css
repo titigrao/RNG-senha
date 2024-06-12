@@ -82,3 +82,13 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.parametro-titulo{
+    font-size: 28px;
+}
+
+.parametro--coluna-senha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
