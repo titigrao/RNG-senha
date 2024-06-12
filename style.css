@@ -47,6 +47,11 @@ body{
     border: none;
     color: var(--textos);
     font-size: 40px;
+    margin-left: 10px;
+}
+
+#campo-senha: :focus{
+    outline: none;
 }
 
 
