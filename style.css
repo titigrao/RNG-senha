@@ -54,6 +54,12 @@ body{
     text-align: center;
 }
 
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
