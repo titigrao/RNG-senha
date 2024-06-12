@@ -57,5 +57,7 @@ body{
 .parametro{
     display: flex;
     justify-content: center;
-    background-color: var(--fundo-texto)
+    background-color: var(--fundo-texto);
+    border-radius: 5px;
+    border-color: var(--borda);
 }
