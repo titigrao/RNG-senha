@@ -53,3 +53,9 @@ body{
     background-color: var(--fundo-texto);
     text-align: center;
 }
+
+.parametro{
+    display: flex;
+    text-align: center;
+    background-color: var(--caixa-de-sub-e-ad);
+}
