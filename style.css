@@ -79,7 +79,6 @@ body{
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
-    display: flex;
     justify-content: center;
 }
 
@@ -88,6 +87,7 @@ body{
 }
 
 .parametro--coluna-senha{
+    display: flex;
     flex-direction: column;
     justify-content: center;
 }
