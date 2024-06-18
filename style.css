@@ -48,6 +48,7 @@ body{
     color: var(--textos);
     font-size: 40px;
     margin-left: 10px;
+    width: 70%;
 }
 
 #campo-senha:focus{
