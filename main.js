@@ -71,7 +71,7 @@ function classificaSenha(tamanhoAlfabeto){
         forcaSenha.classList.add('forte');
     } else if (entropia > 35 && entropia < 57) {
         forcaSenha.classList.add('media');
-    } else if (tentropia <= 57){
+    } else if (entropia <= 57){
         forcaSenha.classList.add('fraca');
      }
      const valorEntropia = document.querySelector('.entropia');
